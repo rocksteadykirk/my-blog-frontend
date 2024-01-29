@@ -1,9 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <h1>The React-Made Blog</h1>
+      <div id="page-body">
+        Welcome to The React-Made Blog!
+      </div>
     </div>
   );
 }
