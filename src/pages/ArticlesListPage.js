@@ -1,3 +1,5 @@
+// Supported by the ArticlesList component
+
 import articles from "./article-content";
 import ArticlesList from "../components/ArticlesList";
 

@@ -1,4 +1,4 @@
-// reusable ArticlesList Component
+// reusable ArticlesList Component to handle functionality of ArticlesListPage.
 
 import { Link } from "react-router-dom";
 
